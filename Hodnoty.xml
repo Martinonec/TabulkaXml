@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/XML/XMLDocument.xml to edit this template
+--><vyrobek>
+    
+<zbozi><id>Id produktu</id><nazev>model a druh</nazev><cena>cena nákupní</cena><vyrobce>vyrobce</vyrobce><mnozstvi>mnozstvi</mnozstvi><id>Id produktu</id><nazev>model a druh</nazev><cena>cena nákupní</cena><vyrobce>vyrobce</vyrobce><mnozstvi>mnozstvi</mnozstvi><id>Id produktu</id><nazev>model a druh</nazev><cena>cena nákupní</cena><vyrobce>vyrobce</vyrobce><mnozstvi>mnozstvi</mnozstvi></zbozi><zbozi><id>56</id><nazev>lednice 3602</nazev><cena>11565</cena><vyrobce>Philco</vyrobce><mnozstvi>5</mnozstvi><id>56</id><nazev>lednice 3602</nazev><cena>11565</cena><vyrobce>Philco</vyrobce><mnozstvi>5</mnozstvi><id>56</id><nazev>lednice 3602</nazev><cena>11565</cena><vyrobce>Philco</vyrobce><mnozstvi>5</mnozstvi></zbozi><zbozi><id>69</id><nazev>lednice 2456</nazev><cena>9865</cena><vyrobce>Philco</vyrobce><mnozstvi>6</mnozstvi><id>69</id><nazev>lednice 2456</nazev><cena>9865</cena><vyrobce>Philco</vyrobce><mnozstvi>6</mnozstvi><id>69</id><nazev>lednice 2456</nazev><cena>9865</cena><vyrobce>Philco</vyrobce><mnozstvi>6</mnozstvi></zbozi></vyrobek>
